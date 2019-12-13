@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: import React and...
+# key: imra
+# --
+import React, {$1} from 'react';

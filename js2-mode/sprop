@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: props in styled component
+# key: sprop
+# uuid: 9085fa1e-6336-4ae4-8e5f-3c792ccf96ea
+# expand-env: ((yas/indent-line 'fixed) (yas/wrap-around-region 'nil))
+# --
+  \$\{props => props.$1 && css\`
+    $2: $0;
+  \`\}

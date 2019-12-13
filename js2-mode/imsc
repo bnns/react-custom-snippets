@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# uuid: 63a99049-057d-4038-b1f1-355c0be1332e
+# name: Import styled components
+# key: imsc
+# --
+import styled from 'styled-components';

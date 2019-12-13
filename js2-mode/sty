@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# uuid: 78b63d1e-c4b5-4bf3-8da7-e9262e842f89
+# name: styled component
+# key: sty
+# --
+const $1 = styled.$2\`
+  $0
+\`
